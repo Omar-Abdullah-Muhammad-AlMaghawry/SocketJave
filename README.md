@@ -7,4 +7,4 @@
 ### - Compile the files
 ## 4th step:
 ### - Run the ComputerNode.jave, then ServerNode.java, and finally Driver.java
-##### (ComputerNode.jave -> ServerNode.java -> finally Driver.java)
+#####      (ComputerNode.jave -> ServerNode.java -> finally Driver.java)
